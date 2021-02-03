@@ -16,4 +16,4 @@ considered.
 
 ## Implementation
 
-Refer to documentation pdf for explanation of how this was implemented.
+Refer to the writeup pdf for explanation of how this was implemented.
